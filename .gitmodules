@@ -1,0 +1,9 @@
+[submodule "Jarvis"]
+	path = Jarvis
+	url = https://github.com/asafgolan/jarvis.git
+[submodule "mlx-batch-generator-mcp"]
+	path = mlx-batch-generator-mcp
+	url = https://github.com/asafgolan/mlx-batch-generator-mcp.git
+[submodule "reddit-mcp-persistance"]
+	path = reddit-mcp-persistance
+	url = https://github.com/asafgolan/reddit-mcp-persistance.git
