@@ -60,6 +60,9 @@ logs/
 temp/
 tmp/
 
+
+#ignore all mcp-servers folder as those get stand alsone folder in the submodules
+mcp-servers/
 # OLD DIRECTORIES - Now replaced by submodules
 # These can be safely deleted after submodule setup
 mcp-servers/mlx_parallm/
