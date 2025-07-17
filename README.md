@@ -41,6 +41,12 @@ Or if you've already cloned the repository:
 git submodule update --init --recursive
 ```
 
+## ⚠️ Setup (Work in Progress)
+After cloning submodules, each component requires individual setup:
+1. Enter each submodule directory
+2. Follow the component-specific README instructions
+3. Set up individual virtual environments as needed
+
 ## 🏗️ Architecture
 
 The Ultron ecosystem is designed for modularity and scalability:
