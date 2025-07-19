@@ -8,3 +8,6 @@
 	path = reddit-mcp-persistance
 	url = https://github.com/asafgolan/reddit-mcp-persistance.git
 
+[submodule "roo-mode-switcher"]
+	path = roo-mode-switcher
+	url = https://github.com/asafgolan/roo-mode-switcher.git
