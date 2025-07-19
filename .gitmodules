@@ -7,3 +7,4 @@
 [submodule "reddit-mcp-persistance"]
 	path = reddit-mcp-persistance
 	url = https://github.com/asafgolan/reddit-mcp-persistance.git
+
