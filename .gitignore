@@ -72,3 +72,4 @@ mcp-servers/reddit-mcp/
 ft_userdata/
 mcp-servers/crypto-feargreed-mcp/
 mcp-servers/freqtrade-mcp/
+.roo/mcp.json
